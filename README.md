@@ -1,8 +1,8 @@
+![Pado Banner](assets/banner.jpg)
+
 # Pado 🌊
 
 A macOS always-on-top AI assistant that can interact with your applications.
-
-![Pado](assets/icon.svg)
 
 ## Concept
 
